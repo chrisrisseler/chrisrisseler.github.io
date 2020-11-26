@@ -1,0 +1,38 @@
+body {
+    /* Box-model */
+    padding: 0;
+  
+    /* Positioning */
+    margin: 0;
+    font-family: Georgia, "Times New Roman", Times, serif;
+  
+    /* Typography */
+    font-size: 18px;
+    line-height: 150%;
+    color: #333;
+  
+    /* Visual */
+    background: #efeee7;
+  }
+  
+  header {
+    background: #d21034;
+  }
+  
+  h1 {
+    /* Box-model */
+    padding: 20px 0;
+  
+    /* Positioning */
+    margin: 0;
+    margin-bottom: 20px;
+    font-size: 28px;
+  
+    /* Typography */
+    color: #eee;
+    text-align: center;
+  
+    /* Visual */
+    background: #333;
+  }
+  
