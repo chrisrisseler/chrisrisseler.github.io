@@ -12,13 +12,9 @@ body {
     color: #333;
   
     /* Visual */
-    background: #efeee7;
+    background: #124107;
   }
-  
-  header {
-    background: #d21034;
-  }
-  
+
   h1 {
     /* Box-model */
     padding: 20px 0;
@@ -35,4 +31,10 @@ body {
     /* Visual */
     background: #333;
   }
+main {
+  padding-top: 20px;
+  padding-left: 20px; 
+  background-color:rgb(170, 245, 160); 
+  width:700px;
   
+}
