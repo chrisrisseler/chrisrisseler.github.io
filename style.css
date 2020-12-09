@@ -12,7 +12,7 @@ body {
     color: #333;
   
     /* Visual */
-    background: #124107;
+    background: #2d3047;
   }
 
   h1 {
@@ -34,7 +34,13 @@ body {
 main {
   margin-top:20px;
   padding:20px; 
-  background-color:rgb(170, 245, 160); 
-  width:700px;
-  
+  background-color:#8eb1c7; 
+  width:700px; 
+}
+nav{
+  background-color: #d36135
+}
+.container{
+  width: 66%;
+  margin-left:5%;
 }
