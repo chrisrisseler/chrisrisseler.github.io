@@ -20,9 +20,13 @@ Alternatively see the GitHub documentation on [creating a pull request](https://
 Thanks to the following people who have contributed to this project:
 
 Chris Risseler
+
 Alper G.
+
 Joshua B.
+
 Carl V.
+
 Tim A.
 
 
