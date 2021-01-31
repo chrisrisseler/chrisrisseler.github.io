@@ -41,10 +41,19 @@ nav{
   background-color: #d36135
 }
 .container{
-  width: 66%;
+  width: 75%;
   margin-left:5%;
 }
 
 a {
   color: #333
+}
+
+h5{
+  font-weight: bold;
+}
+
+.card{
+  background-color: #053C5E;
+  color:white
 }
