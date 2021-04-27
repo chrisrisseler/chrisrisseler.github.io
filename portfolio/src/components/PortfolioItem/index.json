@@ -1,0 +1,23 @@
+[
+    {
+        "image": "./assets/coding-quiz.png",
+        "title": "Coding Quiz",
+        "description": "This was a quick coding quiz",
+        "deployed": "https://chrisrisseler.github.io/javascript-coding-quiz",
+        "gitHub": "https://github.com/chrisrisseler/javascript-coding-quiz"
+    },
+    {
+        "image": "./assets/weather_dashboard.png",
+        "title": "Weather",
+        "description": "This was a quick coding quiz",
+        "deployed": "https://chrisrisseler.github.io/javascript-coding-quiz",
+        "gitHub": "https://github.com/chrisrisseler/javascript-coding-quiz"
+    },
+    {
+        "image": "./assets/scheduler.png",
+        "title": "Scheduler",
+        "description": "This was a quick coding quiz",
+        "deployed": "https://chrisrisseler.github.io/javascript-coding-quiz",
+        "gitHub": "https://github.com/chrisrisseler/javascript-coding-quiz"
+    }
+]
