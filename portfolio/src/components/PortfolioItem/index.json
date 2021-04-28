@@ -2,22 +2,36 @@
     {
         "image": "./assets/coding-quiz.png",
         "title": "Coding Quiz",
-        "description": "This was a quick coding quiz",
+        "description": "This was a quick coding quiz using JavaScript.",
         "deployed": "https://chrisrisseler.github.io/javascript-coding-quiz",
         "gitHub": "https://github.com/chrisrisseler/javascript-coding-quiz"
     },
     {
         "image": "./assets/weather_dashboard.png",
-        "title": "Weather",
-        "description": "This was a quick coding quiz",
-        "deployed": "https://chrisrisseler.github.io/javascript-coding-quiz",
-        "gitHub": "https://github.com/chrisrisseler/javascript-coding-quiz"
+        "title": "Weather Dashboard",
+        "description": "This is a weather dashboard to help you find the weather in a searched city.",
+        "deployed": "https://chrisrisseler.github.io/weather_dashboard",
+        "gitHub": "https://github.com/chrisrisseler/weather_dashboard"
     },
     {
         "image": "./assets/scheduler.png",
-        "title": "Scheduler",
-        "description": "This was a quick coding quiz",
-        "deployed": "https://chrisrisseler.github.io/javascript-coding-quiz",
-        "gitHub": "https://github.com/chrisrisseler/javascript-coding-quiz"
+        "title": "Work Day Scheduler",
+        "description": "This was a work day scheduler that will keep track of your work day plans.",
+        "deployed": "https://chrisrisseler.github.io/Scheduler",
+        "gitHub": "https://github.com/chrisrisseler/Scheduler"
+    },
+    {
+        "image": "./assets/trivia-trainer.png",
+        "title": "Trivia Trainer",
+        "description": "This was a joint project that helps train you in trivia. I worked on the javascript of this for the most part.",
+        "deployed": "https://malenchite.github.io/trivia-trainer",
+        "gitHub": "https://github.com/malenchite/trivia-trainer"
+    },
+    {
+        "image": "./assets/media.png",
+        "title": "Media Munch",
+        "description": "A project that lets you keep track of the media that you consume. You can search to get information from APIs and add your own reviews/ratings",
+        "deployed": "https://media-munch.herokuapp.com/",
+        "gitHub": "https://github.com/chrisrisseler/project2"
     }
 ]
