@@ -2,7 +2,7 @@ import React from "react";
 
 function Home() {
     return (
-        <main className="container">
+        <main className="container my-wrapper">
 
             <section id="main-bio">
                 <div className="row">
@@ -32,7 +32,7 @@ function Home() {
                 <h2>Contact Info</h2>
 
                 <ul>
-                    <li><strong>Email: </strong>chrisrisseler43@gmail.com</li>
+                    <li><strong>Email: </strong><a href="mailto:chrisrisseler43@gmail.com">chrisrisseler43@gmail.com</a></li>
                     <li><strong>Github: </strong><a href="https://github.com/chrisrisseler/">Visit my Github</a></li>
                     <li><strong>LinkedIn: </strong><a href="https://www.linkedin.com/in/chris-risseler-08a95384/">Visit my
         LinkedIn</a></li>

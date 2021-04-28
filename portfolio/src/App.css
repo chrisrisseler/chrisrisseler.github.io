@@ -80,7 +80,6 @@ h2{
 main {
 margin-top:20px;
 padding:20px; 
-background-color:#8eb1c7; 
 width:700px; 
 }
 nav{
@@ -95,7 +94,9 @@ a {
 color: #333
 }
 
-
+.my-wrapper {
+  background-color:#8eb1c7; 
+}
 
 .card{
 background-color: #053C5E;

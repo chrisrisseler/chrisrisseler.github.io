@@ -1,6 +1,10 @@
 import React from "react";
+import { useHistory } from "react-router-dom";
 
 function Nav() {
+  const history = useHistory();
+  console.log(history.location.pathname);
+
   return (
     <nav className="navbar navbar-expand-lg navbar-light bg-custom">
 
@@ -15,8 +19,8 @@ function Nav() {
 
         <div className="collapse navbar-collapse" id="navbar">
           <div className="navbar-nav ml-auto mt-2 mt-lg-0">
-            <a className="nav-link active" href="/">Home <span className="sr-only">(current)</span></a>
-            <a className="nav-link" href="/portfolio">Portfolio</a>
+            <a className={`nav-link ${history.location.pathname === "/" ? "active" : ""}`} href="/">Home <span className="sr-only">(current)</span></a>
+            <a className={`nav-link ${history.location.pathname === "/portfolio" ? "active" : ""}`} href="/portfolio">Portfolio</a>
             {/* <a className="nav-link" href="contact.html">Contact</a> */}
           </div>
         </div>

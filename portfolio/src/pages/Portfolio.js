@@ -6,7 +6,7 @@ import "../App.css"
 function Portfolio() {
     return (
         <>
-            <div className="container px-2">
+            <div className="container px-2 my-wrapper mt-3">
                 <div className="row">
                     <div className="col-md-12 col-lg-12">
                         <h2>Chris Risseler| My Portfolio</h2>
