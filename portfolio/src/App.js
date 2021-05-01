@@ -13,18 +13,13 @@ function App() {
       <div>
         <Nav />
         <Switch>
-          <Route exact path={'/'}>
-            <Home />
-          </Route>
           <Route path='/portfolio'>
             <Portfolio />
           </Route>
-          <Route path='*'>
-            {/* <NoMatch /> */}
+          <Route exact path={'/'}>
+            <Home />
           </Route>
-
         </Switch>
-
       </div>
     </BrowserRouter>
   );
