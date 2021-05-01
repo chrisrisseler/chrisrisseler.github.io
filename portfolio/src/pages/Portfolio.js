@@ -23,6 +23,7 @@ function Portfolio() {
                                     description={description}
                                     deployed={deployed}
                                     gitHub={gitHub}
+                                    key={title}
                                 />)
                             }
                         )}
