@@ -1,5 +1,5 @@
 import React from "react";
-import { useHistory } from "react-router-dom";
+import { useHistory, Link } from "react-router-dom";
 
 function Nav() {
   const history = useHistory();
@@ -9,8 +9,8 @@ function Nav() {
     <nav className="navbar navbar-expand-lg navbar-light bg-custom">
 
       <div className="container">
-
-        <a className="navbar-brand logo" href="index.html">Chris Risseler</a>
+        <Link to="/" className="navbar-brand logo"> Chris Risseler</Link>
+        {/* <a className="navbar-brand logo" href="/">Chris Risseler</a> */}
 
         <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar" aria-controls="navbar"
           aria-expanded="false" aria-label="Toggle navigation">
@@ -19,8 +19,10 @@ function Nav() {
 
         <div className="collapse navbar-collapse" id="navbar">
           <div className="navbar-nav ml-auto mt-2 mt-lg-0">
-            <a className={`nav-link ${history.location.pathname === "/" ? "active" : ""}`} href="/">Home</a>
-            <a className={`nav-link ${history.location.pathname === "/portfolio" ? "active" : ""}`} href="/portfolio">Portfolio</a>
+            <Link to="/" className={window.location.pathname === "" ? "nav-link active" : "nav-link"}> Home</Link>
+            <Link to="/portfolio" className={window.location.pathname === "" ? "nav-link active" : "nav-link"}> Portfolio</Link>
+            {/* <a className={`nav-link ${history.location.pathname === "/" ? "active" : ""}`} href="/">Home</a>
+            <a className={`nav-link ${history.location.pathname === "/portfolio" ? "active" : ""}`} href="/portfolio">Portfolio</a> */}
             {/* <a className="nav-link" href="contact.html">Contact</a> */}
           </div>
         </div>
