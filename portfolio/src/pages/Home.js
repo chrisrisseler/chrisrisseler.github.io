@@ -35,11 +35,11 @@ function Home() {
                 <br />
                 <strong>Github: </strong><a href="https://github.com/chrisrisseler/">Visit my Github</a>
                 <br />
-                <strong>LinkedIn: </strong><a href="https://www.linkedin.com/in/chris-risseler-08a95384/">Visit my
+                <strong>LinkedIn: </strong><a href="https://www.linkedin.com/in/chrisrisseler/">Visit my
         LinkedIn</a>
                 <br />
                 <strong>My Resume: </strong><a
-                    href="https://docs.google.com/document/d/1-8x9droGeZO7ajDgGLbuwYjmfzToLPLRmprMmKgUemE/edit?usp=sharing">Google
+                    href="https://docs.google.com/document/d/1CRpKBo9_JATUOFJYrqilJQN46uwzVETgJjfh_ojDwm8/edit?usp=sharing">Google
         Drive to my current Resume</a>
 
 
