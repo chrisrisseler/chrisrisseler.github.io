@@ -3,27 +3,6 @@ import React from "react";
 
 function Card({ image, title, description, deployed, gitHub }) {
     return (
-        // <div className="card mr-1 mb-1">
-        //     <div className="img-container card-img-top cardImg">
-        //         <img alt={title} src={image} />
-        //     </div>
-        //     <div className="content">
-        //         <ul>
-        //             <li>
-        //                 <strong>Name:</strong> {title}
-        //             </li>
-        //             <li>
-        //                 <strong>Description:</strong> {description}
-        //             </li>
-        //         </ul>
-        //     </div>
-        //     <button href={deployed} className="btn btn-warning btnPortfolio">
-        //         Application
-        //   </button>
-        //     <button href={gitHub} className="btn btn-warning btnPortfolio rightBtn">
-        //         GitHub
-        //   </button>
-        // </div>
         <div className="card mr-1 mb-1">
             <img src={image} alt={title} className="card-img-top">
             </img>

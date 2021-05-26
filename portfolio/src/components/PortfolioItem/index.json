@@ -1,5 +1,12 @@
 [
     {
+        "image": "./assets/web-dev.png",
+        "title": "The Web Dev Game",
+        "description": "Thie is a Trivial Pursuit Style game with emphasis on adult learners. The questions are web development focused.",
+        "deployed": "https://the-web-dev-game.herokuapp.com/",
+        "gitHub": "https://github.com/malenchite/web-dev-game"
+    },
+    {
         "image": "./assets/coding-quiz.png",
         "title": "Coding Quiz",
         "description": "This was a quick coding quiz using JavaScript.",
