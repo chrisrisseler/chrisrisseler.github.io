@@ -3,6 +3,7 @@
         "image": "./assets/web-dev.png",
         "title": "The Web Dev Game",
         "description": "Thie is a Trivial Pursuit Style game with emphasis on adult learners. The questions are web development focused.",
+        "used": "React, Tailwind, Socket.io, Express, Mongoose, Multiavatar",
         "deployed": "https://the-web-dev-game.herokuapp.com/",
         "gitHub": "https://github.com/malenchite/web-dev-game"
     },
@@ -10,6 +11,7 @@
         "image": "./assets/coding-quiz.png",
         "title": "Coding Quiz",
         "description": "This was a quick coding quiz using JavaScript.",
+        "used": "HTML, CSS, Javascript",
         "deployed": "https://chrisrisseler.github.io/javascript-coding-quiz",
         "gitHub": "https://github.com/chrisrisseler/javascript-coding-quiz"
     },
@@ -17,6 +19,7 @@
         "image": "./assets/weather_dashboard.png",
         "title": "Weather Dashboard",
         "description": "This is a weather dashboard to help you find the weather in a searched city.",
+        "used": "HTML, CSS, Javascript, OpenWeather API",
         "deployed": "https://chrisrisseler.github.io/weather_dashboard",
         "gitHub": "https://github.com/chrisrisseler/weather_dashboard"
     },
@@ -24,6 +27,7 @@
         "image": "./assets/scheduler.png",
         "title": "Work Day Scheduler",
         "description": "This was a work day scheduler that will keep track of your work day plans.",
+        "used": "HTML, CSS, Javascript, jQuery",
         "deployed": "https://chrisrisseler.github.io/Scheduler",
         "gitHub": "https://github.com/chrisrisseler/Scheduler"
     },
@@ -31,6 +35,7 @@
         "image": "./assets/trivia-trainer.png",
         "title": "Trivia Trainer",
         "description": "This was a joint project that helps train you in trivia. I worked on the javascript of this for the most part.",
+        "used": "HTML, CSS, Javascript, Trivia API, jQuery",
         "deployed": "https://malenchite.github.io/trivia-trainer",
         "gitHub": "https://github.com/malenchite/trivia-trainer"
     },
@@ -38,6 +43,7 @@
         "image": "./assets/media.png",
         "title": "Media Munch",
         "description": "A project that lets you keep track of the media that you consume. You can search to get information from APIs and add your own reviews/ratings",
+        "used": "HTML, CSS, Javascript, Tailwind, Different APIs, SQL",
         "deployed": "https://media-munch.herokuapp.com/",
         "gitHub": "https://github.com/chrisrisseler/project2"
     }

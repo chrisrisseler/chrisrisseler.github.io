@@ -16,12 +16,13 @@ function Portfolio() {
                 <section>
                     <div className="grid-area">
                         {data.map(
-                            ({ image, title, description, deployed, gitHub }) => {
+                            ({ image, title, description, deployed, gitHub, used }) => {
                                 return (<Card
                                     image={image}
                                     title={title}
                                     description={description}
                                     deployed={deployed}
+                                    used={used}
                                     gitHub={gitHub}
                                     key={title}
                                 />)
