@@ -2,6 +2,8 @@
 
 Chris Risseler's Personal Page is a webpage that allows users to see more information about me, to see my portfolio, and contact me if needed. It includes three seperate pages, with a navbar to help you navagate between them. As I add more to my portfolio, I will be updating the images there.
 
+## Link
+A deployed version of my website can be found at [this location](https://chrisrisseler.github.io)
 
 ## Contributing to <project_name>
 
