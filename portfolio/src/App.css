@@ -152,3 +152,12 @@ grid-template-columns:repeat(auto-fill, minmax(250px, 1fr));
   height: 200px;
   width: auto;
 }
+
+.skillsImg{
+  height:100px;
+  width: auto;
+}
+.skillsDiv{
+  height:100px;
+  width: auto;
+}

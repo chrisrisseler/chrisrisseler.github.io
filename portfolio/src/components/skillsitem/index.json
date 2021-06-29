@@ -1,0 +1,66 @@
+[
+    {
+        "image": "./assets/skills/html5.png",
+        "title": "html"
+    },
+    {
+        "image": "./assets/skills/css3.png",
+        "title": "css"
+    },
+    {
+        "image": "./assets/skills/bootstrap.png",
+        "title": "bootstrap"
+    },
+    {
+        "image": "./assets/skills/express.png",
+        "title": "express"
+    },
+    {
+        "image": "./assets/skills/github-logo.png",
+        "title": "github"
+    },
+    {
+        "image": "./assets/skills/jQuery.png",
+        "title": "jquery"
+    },
+    {
+        "image": "./assets/skills/JS.png",
+        "title": "js"
+    },
+    {
+        "image": "./assets/skills/React.png",
+        "title": "react"
+    },
+    {
+        "image": "./assets/skills/mern.jpg",
+        "title": "mern"
+    },
+    {
+        "image": "./assets/skills/mongodb.png",
+        "title": "mongodb"
+    },
+    {
+        "image": "./assets/skills/MySQL.jpg",
+        "title": "mysql"
+    },
+    {
+        "image": "./assets/skills/nodeJS.png",
+        "title": "nodejs"
+    },
+    {
+        "image": "./assets/skills/npm_logo.png",
+        "title": "npm"
+    },
+    {
+        "image": "./assets/skills/socket.png",
+        "title": "socket"
+    },
+    {
+        "image": "./assets/skills/tailwind.png",
+        "title": "tailwind"
+    },
+    {
+        "image": "./assets/skills/heroku.jpg",
+        "title": "heroku"
+    }
+]
